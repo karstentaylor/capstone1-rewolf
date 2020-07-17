@@ -45,9 +45,12 @@ p {
 p + p {
   margin-top: 15px;
 }
-/* li {
+li {
   list-style: none;
-} */
+}
+#nav-menu li {
+  display: inline;
+}
 
 .login-screen {
   background-image: url('images/rewolf-logo.jpg');
